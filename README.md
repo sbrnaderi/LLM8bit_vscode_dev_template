@@ -1,5 +1,5 @@
 # LLM8bit_vscode_dev_template
-This repo is a starting point for those who want to create a dev container to use the [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) library in their vscode project. 
+This repo is a starting point for those who want to create a Dev Container to use the [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) library in their vscode project. 
 
 ## Motivation
 I was trying to use the bitsandbytes library on windows WSL and I encounter an issue with the library not recognizing my CUDA installation. So, I decided to create a docker dev container and start from a clean Pytorch installation with CUDA in docker.
